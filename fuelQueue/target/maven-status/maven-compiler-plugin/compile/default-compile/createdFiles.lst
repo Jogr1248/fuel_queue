@@ -1,0 +1,4 @@
+com\javafuel\fuelqueue\reserver\FuelReservationServlet.class
+com\javafuel\fuelqueue\resources\JakartaEE10Resource.class
+com\javafuel\fuelqueue\JakartaRestConfiguration.class
+com\javafuel\fuelqueue\reserver\helloServlet.class
